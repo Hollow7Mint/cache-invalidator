@@ -90,4 +90,4 @@ class CacheModels:
             ids.append(rec_id)
         logger.info("bulk_insert flushs: %d rows", len(ids))
         return ids
-# Last sync: 2026-07-22 02:51:32 UTC
+# Last sync: 2026-07-22 03:49:27 UTC
